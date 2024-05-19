@@ -1,17 +1,45 @@
-# first_app
+# DICE ROLL APP 
 
-A new Flutter project.
+# Description :
 
-## Getting Started
+A brief description of what this project does and who it's for
 
-This project is a starting point for a Flutter application.
+The ROLL DICE App is a delightful mobile application developed using Flutter, offering a seamless experience for rolling virtual dice. Whether you're playing a board game, making decisions, or simply looking for some random fun, this app is here to assist you with its intuitive interface and smooth functionality.
+## Features : 
 
-A few resources to get you started if this is your first Flutter project:
+- Simulates rolling dice with realistic animations.
+- Customizable dice options (number of dice, type of dice, etc.).
+- History of previous rolls.
+- Share results with friends.
+- Beautiful Sound effects for an immersive experience.
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Framework:** Flutter
+- **Programming Language:** Dart
+- **State Management:** Provider
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# DICE-ROLL-APP
+
+![Logo](https://i.pinimg.com/originals/63/ca/a2/63caa2a915886143c80f25d23788e153.png)
+
+
+## Used By 
+- Board game enthusiasts.
+- Decision-makers seeking a random outcome generator.
+- Anyone looking for a fun and interactive way to simulate dice   
+  rolling.
+## Acknowledgements :
+We extend our gratitude to the Flutter community for their continuous support and contributions, which have greatly enriched the development of this project.
+
+## Author : 
+   [Abhishek Kumar](https://github.com/abhikumardev108) - develop 
+    entire app. 
+## Feedback
+
+If you have any feedback, please reach out to us at :-
+https://github.com/abhikumardev108
+
+We highly value your feedback! Feel free to submit any suggestions, bug reports.
+
+## 🚀 About Me
+https://github.com/abhikumardev108
+
